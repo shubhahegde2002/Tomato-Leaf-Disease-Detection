@@ -701,7 +701,7 @@ Total params: 22,314,794
 Trainable params: 512,010
 Non-trainable params: 21,802,784
 
-The above Neural Network has around 22 Lakh Parameters. It gives 81% and 83% accuracy for 3 epochs.
+The above Neural Network has around 22 Lakh Parameters. It gives 81% accuracy and 83% validation accuracy for 3 epochs.
 
 ## Model Evaluation
 

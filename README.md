@@ -1,4 +1,4 @@
-# Tomato-Leaf-Disease-Detection
+# Tomato Leaf Disease Detection
 A Neural Network which uses Transfer Learning technique using pre-trained model of InceptionV3 to detect different type of diseases for tomato leaves.
 
 ## Dataset - Tomato leaf disease detection
@@ -16,7 +16,7 @@ Spidermites Two spotted spider mite,
 Tomato healthy,
 Septoria leaf spot,
 
-## Tomato Leaves Diseases Dataset Classes
+## Tomato Leaf Diseases Dataset Classes
 
 ![3c182852-8b72-465a-ad91-a031d9d725f5___UF GRC_BS_Lab Leaf 0411](https://user-images.githubusercontent.com/73905298/127282808-ad2536a4-5d3f-48f1-80e0-8ae50a59edff.JPG)
 ![0e2e58b7-1417-49c4-b014-b5efb4b4b831___RS_Erly B 8256](https://user-images.githubusercontent.com/73905298/127283755-1515938a-051d-42ce-8ed0-84beea1b7d18.JPG)
